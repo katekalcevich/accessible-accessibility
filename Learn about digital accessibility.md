@@ -95,11 +95,9 @@ Data intended for machine consumption needs to be machine readable. Accessibilit
 
 - [Make your Word documents accessible (web page)](https://support.office.com/en-gb/article/make-your-word-documents-accessible-to-people-with-disabilities-d9bf3683-87ac-47ea-b91a-78dcacb3c66d?ui=en-US&amp;rs=en-GB&amp;ad=GB) OR
 [Creating accessible Word documents (7 videos)](https://support.office.com/en-us/article/video-creating-accessible-documents-8d720231-495a-489c-a27a-eaf98f85c4f3?ui=en-US&amp;rs=en-US&amp;ad=US)
-
 - [Make your PowerPoint presentations accessible (web page)](https://support.office.com/en-gb/article/make-your-powerpoint-presentations-accessible-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25)
 - [Use the accessibility checker to find accessibility issues (web page)](https://support.office.com/en-us/article/Use-the-Accessibility-Checker-to-find-accessibility-issues-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f) OR
 [Use the Office accessibility checker (1 min video)](https://support.office.com/en-us/article/make-your-content-accessible-to-everyone-with-the-accessibility-checker-38059c2d-45ef-4830-9797-618f0e96f3ab)
-
 - [Best Practices and Guidelines for Large Print (web page)](http://www.acb.org/large-print-guidelines)
 
 ### PDFs
