@@ -4,6 +4,8 @@ Courses and online resources to help you learn how to create accessible electron
 
 Accessibility barriers make it difficult or even impossible for some people to use digital content. When you create content without barriers, more people can use your documents, website or app.
 
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
+
 ## Theory
 
 When learning about accessibility, it&#39;s helpful to understand:
