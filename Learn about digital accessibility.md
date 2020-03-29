@@ -102,18 +102,18 @@ Data intended for machine consumption needs to be machine readable. Accessibilit
 
 ### PDFs
 
-- **●●** [Workflow for creating Accessible PDFs (web page)](https://helpx.adobe.com/acrobat/using/creating-accessible-pdfs.html)
-- **●●** [Create and verify PDF accessibility (web page)](https://helpx.adobe.com/ca/acrobat/using/create-verify-pdf-accessibility.html)
-- **●●** [Creating Accessible Forms with Acrobat Pro DC (web page)](https://www.adobe.com/accessibility/products/acrobat/creating-accessible-forms.html)
+- [Workflow for creating Accessible PDFs (web page)](https://helpx.adobe.com/acrobat/using/creating-accessible-pdfs.html)
+- [Create and verify PDF accessibility (web page)](https://helpx.adobe.com/ca/acrobat/using/create-verify-pdf-accessibility.html)
+- [Creating Accessible Forms with Acrobat Pro DC (web page)](https://www.adobe.com/accessibility/products/acrobat/creating-accessible-forms.html)
 
 Paid webinars and courses
 
-- **●●** [Basic PDF Accessibility ($45 USD, 45 minute webinar)](https://dequeuniversity.com/curriculum/courses/pdf)
-- **●●** [Advanced PDF Accessibility: Complex Tables and Forms ($45 USD, 45 minute webinar)](https://dequeuniversity.com/curriculum/courses/pdf-advanced)
-- **●●** [Adobe Acrobat DC: Accessible PDFs ($635 CAD, 2 day online or in person course)](http://eliquo.ca/en/training/course.php?crs=ADDC301)
-- **●●** [Adobe Acrobat DC: Accessible PDF Forms ($895 CAD, 3 day online or in person course)](http://eliquo.ca/en/training/course.php?crs=ADDC307)
-- **●●** [Adobe InDesign: Creating Accessible PDFs ($635 CAD, 2 day online or in person course)](http://eliquo.ca/en/training/course.php?crs=ADID302)
-- **●●** [Adobe LiveCycle Designer: Accessible PDF Forms ($435 CAD, 1 day online or in person course)](http://eliquo.ca/en/training/course.php?crs=ADLD501)
+- [Basic PDF Accessibility ($45 USD, 45 minute webinar)](https://dequeuniversity.com/curriculum/courses/pdf)
+- [Advanced PDF Accessibility: Complex Tables and Forms ($45 USD, 45 minute webinar)](https://dequeuniversity.com/curriculum/courses/pdf-advanced)
+- [Adobe Acrobat DC: Accessible PDFs ($635 CAD, 2 day online or in person course)](http://eliquo.ca/en/training/course.php?crs=ADDC301)
+- [Adobe Acrobat DC: Accessible PDF Forms ($895 CAD, 3 day online or in person course)](http://eliquo.ca/en/training/course.php?crs=ADDC307)
+- [Adobe InDesign: Creating Accessible PDFs ($635 CAD, 2 day online or in person course)](http://eliquo.ca/en/training/course.php?crs=ADID302)
+- [Adobe LiveCycle Designer: Accessible PDF Forms ($435 CAD, 1 day online or in person course)](http://eliquo.ca/en/training/course.php?crs=ADLD501)
 
 ## Graphic/visual design
 
