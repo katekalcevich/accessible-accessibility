@@ -210,7 +210,7 @@ If you have the budget for paid learning, these two webinars cover more concepts
 - [Inclusive design toolkit (website)](https://www.ontario.ca/page/inclusive-design-toolkit)
 - [Introduction to accessible images (website)](https://poet.diagramcenter.org/index.html)
 
-## User Research
+## User research
 
 - [Things to consider when doing usability testing with disabled people (web page)](https://frozenrockets.nl/articles/en/user-testing-with-disabled-people)
 - [Running research sessions with people with disabilities (web page)](https://www.gov.uk/service-manual/user-research/running-research-sessions-with-people-with-disabilities)
