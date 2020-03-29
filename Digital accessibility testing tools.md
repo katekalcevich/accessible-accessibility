@@ -14,6 +14,8 @@ There&#39;s more testing you can do than what I&#39;ve listed above, but this is
 
 Here are my favourite accessibility testing tools, grouped by type.
 
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
+
 ## Automated WCAG compliance testing
 
 ### Automation / Integration
