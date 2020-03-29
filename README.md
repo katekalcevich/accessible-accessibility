@@ -6,3 +6,6 @@ I've created a list of [learning resources](https://github.com/katekalcevich/acc
 Suggestions, edits and changes are welcome.
 
 Please read the [theory section](https://github.com/katekalcevich/accessible-accessibility/blob/master/Learn%20about%20digital%20accessibility.md#theory) before suggesting training. I don't recommend training that focuses on the Web Content Accessibility Guidelines. Based on my experience working in the field since 2001, it's not a good starting point.
+
+### License
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). That means you can quote it, copy it or rewrite it for either commercial or personal use and all I ask is that you provide a link back to this article.
