@@ -9,6 +9,7 @@ Accessibility is a team sport—everyone has a part to play. A robust web access
 - developers checking that interactive elements can be used with a screen reader and speech input
 - devops checking for accessibility errors as part of continuous integration
 - QA doing a final check using WAVE, tabbing through all elements with a keyboard and confirming that pages work when zoomed 200%
+- user researchers [testing accessibility with real people](https://www.makeitfable.com/)
 
 There&#39;s more testing you can do than what I&#39;ve listed above, but this is a great starting point and you can build on it once you&#39;ve mastered the basics of accessibility.
 
