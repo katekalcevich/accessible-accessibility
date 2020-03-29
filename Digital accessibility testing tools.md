@@ -74,7 +74,7 @@ JAWS is free to use in 40 minute demo mode. You&#39;ll need to restart your comp
 - [Using NVDA (with Firefox on Windows) to Evaluate Web Accessibility](https://webaim.org/articles/nvda/)
 NVDA is free to use, but they accept donations to support the continued improvement of the tool.
 - [Using VoiceOver (with Safari on](https://webaim.org/articles/voiceover/)[Mac)](https://webaim.org/articles/voiceover/)[to Evaluate Web Accessibility](https://webaim.org/articles/voiceover/)
-VoiceOver comes with the MacOS. You can turn it on in Settings \&gt; Accessibility.
+VoiceOver comes with the MacOS. You can turn it on in Settings > Accessibility.
 
 ### Speech input
 
