@@ -214,7 +214,6 @@ If you have the budget for paid learning, these two webinars cover more concepts
 
 - [Things to consider when doing usability testing with disabled people (web page)](https://frozenrockets.nl/articles/en/user-testing-with-disabled-people)
 - [Running research sessions with people with disabilities (web page)](https://www.gov.uk/service-manual/user-research/running-research-sessions-with-people-with-disabilities)
-
 - [Adrian Roselli: Inclusive Usability Testing (40 minute video)](https://www.youtube.com/watch?v=GECwJOOaIq8)
 - [Test accessibility with real people, online (paid service)](https://www.makeitfable.com/)
 - [Research ethics (3 hour online course)](https://tcps2core.ca/welcome)
