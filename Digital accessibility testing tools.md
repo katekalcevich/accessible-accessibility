@@ -61,7 +61,7 @@ The taba11y extension tabs through all focusable elements on a page and numbers 
 - [WCAG Color contrast checker (Chrome)](https://chrome.google.com/webstore/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf?hl=en)
 All the browser extensions check colour contrast. The WCAG color contrast checker _only_ checks colour contrast, nothing else. It will tell you if colours meet AA or AAA requirements for regular or large text. The colour picker tool lets you select colours on screen and test them.
 - Check your font size—is it at least 16px?
-- Zoom in 200%—does everything reflow so you can read without scrolling?
+- Zoom in 200%—does everything reflow so you can read without scrolling? or [use Windows Magnifier (7 minute video)](https://www.youtube.com/watch?v=ibu0BY-kAX4)
 
 ### Paid webinars and courses
 
