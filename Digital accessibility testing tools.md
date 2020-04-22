@@ -76,6 +76,7 @@ All the browser extensions check colour contrast. The WCAG color contrast checke
 JAWS is free to use in 40 minute demo mode. You&#39;ll need to restart your computer every 40 minutes to continue using it.
 - [Using NVDA (with Firefox on Windows) to Evaluate Web Accessibility](https://webaim.org/articles/nvda/)
 NVDA is free to use, but they accept donations to support the continued improvement of the tool.
+- [Accessibility Testing with the NVDA Screenreader (20 minute video)](https://youtu.be/Vx1vSd5uYS8)
 - [Using VoiceOver (with Safari on](https://webaim.org/articles/voiceover/)[Mac)](https://webaim.org/articles/voiceover/)[to Evaluate Web Accessibility](https://webaim.org/articles/voiceover/)
 VoiceOver comes with the MacOS. You can turn it on in Settings > Accessibility.
 
