@@ -53,14 +53,14 @@ The courses and webinars are your actual learning resources. Choose based on you
 - [Accessibility with ](https://docs.angularjs.org/guide/accessibility)[**ngAria**](https://docs.angularjs.org/guide/accessibility)[ (web page)](https://docs.angularjs.org/guide/accessibility)
 - [**Angular**](https://dequeuniversity.com/curriculum/courses/angular-accessibility)[Accessibility ($45 USD, 30 minute webinar)](https://dequeuniversity.com/curriculum/courses/angular-accessibility)
 - [**WordPress**](https://make.wordpress.org/accessibility/handbook/best-practices/)[Accessibility Best Practices (website)](https://make.wordpress.org/accessibility/handbook/best-practices/)
-- [**Drupal 7**](https://www.drupal.org/node/394094)[Accessibility (website)](https://www.drupal.org/node/394094) OR [**Drupal 8**](https://www.drupal.org/docs/8/accessibility)[Accessibility (website)](https://www.drupal.org/docs/8/accessibility)
+- [**Drupal 7** Accessibility (website)](https://www.drupal.org/node/394094) OR [**Drupal 8** Accessibility (website)](https://www.drupal.org/docs/8/accessibility)
 
 ### Free online courses
 
 The first course covers concepts of focus and semantics, the second focuses on using ARIA in interactive applications and the third helps you to understand how to write code  that supports voice control technology.
 
 - [Web Accessibility by Google (2 week online course, 1-2 hours per week)](https://classroom.udacity.com/courses/ud891) OR [Google Web Fundamentals: Accessibility (website)](https://developers.google.com/web/fundamentals/accessibility/)
-- [Web Accessibility for developers](https://pressbooks.library.ryerson.ca/wafd/chapter/objectives-and-activities-2/)[(online book, chapters 2-6)](https://pressbooks.library.ryerson.ca/wafd/chapter/objectives-and-activities-2/)
+- [Web Accessibility for developers (online book, chapters 2-6)](https://pressbooks.library.ryerson.ca/wafd/chapter/objectives-and-activities-2/)
 - [Guidelines for speech-accessible HTML (PDF, 8 pages)](http://supportcontent.nuance.com/kbfiles/2626_DNS_HTML.pdf)
 
 ### Paid webinars
