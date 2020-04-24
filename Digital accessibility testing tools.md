@@ -36,7 +36,7 @@ Use these free tools to test web pages for accessibility barriers. They check th
 The Axe extension highlights errors on screen, explains what caused the error and how to fix it. Axe is great for toggling between the element on screen and the source code.
 - [Easy Accessibility Testing with aXe (3.5 minute video)](https://youtu.be/FW1giWW5M9I)
 - [WAVE (Chrome and Firefox)](https://wave.webaim.org/extension/)
-The WAVE extension highlights errors on screen, explains what caused the error and how to fix it. WAVE allows you to turn the page styles off and to help narrow down exactly where an error is.
+The WAVE extension highlights errors on screen, explains what caused the error and how to fix it. WAVE allows you to turn page styles off to help narrow down exactly where an error is.
 - [WAVE Help](https://wave.webaim.org/help)
 - [tota11y: an accessibility visualization toolkit (all browsers)](https://khan.github.io/tota11y/)
 The tota11y extension allows you to check one group of errors at a time (headings, contrast, links, etc.). It highlights errors on screen, displays the relevant code and has tips for fixing the errors.
