@@ -211,6 +211,7 @@ If you have the budget for paid learning, these two webinars cover more concepts
 - [Introduction to accessible images (website)](https://poet.diagramcenter.org/index.html)
 
 ## User research
+One concern I hear from people who do user interviews is that they worry about offending research participants with disabilities. Microsoft has a series of seven short (1 to 2 minute) videos about [how to be more inclusive of people with disabilities](https://news.microsoft.com/stories/simplethingscount/) that can help.
 
 - [Things to consider when doing usability testing with disabled people (web page)](https://frozenrockets.nl/articles/en/user-testing-with-disabled-people)
 - [Running research sessions with people with disabilities (web page)](https://www.gov.uk/service-manual/user-research/running-research-sessions-with-people-with-disabilities)
