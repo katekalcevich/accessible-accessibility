@@ -48,6 +48,8 @@ The taba11y extension tabs through all focusable elements on a page and numbers 
 - [Use the accessibility checker to find accessibility issues (web page)](https://support.office.com/en-us/article/Use-the-Accessibility-Checker-to-find-accessibility-issues-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f) OR
 [Use the Office accessibility checker (1 min video)](https://support.office.com/en-us/article/make-your-content-accessible-to-everyone-with-the-accessibility-checker-38059c2d-45ef-4830-9797-618f0e96f3ab)
 - [Create and verify PDF accessibility (web page)](https://helpx.adobe.com/ca/acrobat/using/create-verify-pdf-accessibility.html)
+- [PAVE – Validate and fix PDF accessibility online](https://pave-pdf.org/?lang=en)
+- [PDF Accessibility Checker (PAC) - free Windows software](https://www.access-for-all.ch/en/pdf-lab/pdf-accessibility-checker-pac.html)
 
 ### Mobile apps
 
