@@ -164,8 +164,7 @@ If you&#39;re serious about accessibility, I can&#39;t say enough good things ab
 
 ## Social media
 
-- [Improving the Accessibility of Social Media in Government (web page)](https://digital.gov/resources/improving-the-accessibility-of-social-media-in-government/)
-- [Accessible Social Media (web page)](https://accessibility.umn.edu/tutorials/accessible-social-media)
+- [Planning, creating and publishing accessible social media campaigns (web page)](https://gcs.civilservice.gov.uk/guidance/digital-communication/planning-creating-and-publishing-accessible-social-media-campaigns/)
 
 ## QA Testing
 
