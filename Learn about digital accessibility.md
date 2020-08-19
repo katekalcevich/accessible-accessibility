@@ -117,7 +117,8 @@ Paid webinars and courses
 
 ## Graphic/visual design
 
-- [5 Keys to Accessible Web Typography](https://betterwebtype.com/articles/2019/06/16/5-keys-to-accessible-web-typography/)
+- [A Guide to Understanding What Makes a Typeface Accessible (web page)](https://uxdesign.cc/a-guide-to-understanding-what-makes-a-typeface-accessible-and-how-to-make-informed-decisions-9e5c0b9040a0)
+- [5 Keys to Accessible Web Typography (web page)](https://betterwebtype.com/articles/2019/06/16/5-keys-to-accessible-web-typography/)
 - [Clear print guidelines (24 page PDF)](https://cnib.ca/sites/default/files/2018-07/CNIB%20Clear%20Print%20Guide.pdf)
 - [AccessAbility 2: A Practical Handbook on Accessible Graphic Design (88  page PDF)](https://www.rgd.ca/database/files/library/RGD_AccessAbility2_Handbook_2019_06_01(1).pdf)
 - [Visual Design and Colors ($45 USD, 75 minute webinar)](https://dequeuniversity.com/curriculum/courses/visual-design)
