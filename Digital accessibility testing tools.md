@@ -50,6 +50,7 @@ The taba11y extension tabs through all focusable elements on a page and numbers 
 - [Create and verify PDF accessibility (web page)](https://helpx.adobe.com/ca/acrobat/using/create-verify-pdf-accessibility.html)
 - [PAVE – Validate and fix PDF accessibility online](https://pave-pdf.org/?lang=en)
 - [PDF Accessibility Checker (PAC) - free Windows software](https://www.access-for-all.ch/en/pdf-lab/pdf-accessibility-checker-pac.html)
+- [Colour Contrast Analyser - free Windows/Mac software](https://developer.paciellogroup.com/resources/contrastanalyser/)
 
 ### Mobile apps
 
