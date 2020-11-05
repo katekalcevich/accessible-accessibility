@@ -145,13 +145,13 @@ If you&#39;re serious about accessibility, I can&#39;t say enough good things ab
 
 - [Apple developer: Accessibility (website)](https://developer.apple.com/design/human-interface-guidelines/accessibility/overview/introduction/)
 - [iOS VoiceOver gestures (PDF)](https://training.dotjay.com/mobile/iOS-VoiceOver-gestures.pdf)
-- [iOS Mobile App Accessibility ($45 USD, 2 hour webinar)](https://dequeuniversity.com/curriculum/courses/ios)
+- [iOS App Development: Accessibility (2.5 hour video)](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fios-app-development-accessibility%3Ftrk%3Dshare_ent_url&account=26888194) OR [iOS Mobile App Accessibility ($45 USD, 2 hour webinar)](https://dequeuniversity.com/curriculum/courses/ios)
 
 ### Android
 
 - [Android developers: Accessibility overview (website)](https://developer.android.com/guide/topics/ui/accessibility/index.html)
 - [Use TalkBack gestures](https://support.google.com/accessibility/android/answer/6151827?hl=en)
-- [Android Mobile App Accessibility ($45 USD, 1.5 hour webinar)](https://dequeuniversity.com/curriculum/courses/android)
+- [Android App Development: Accessibility (3 hour video)](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fandroid-app-development-accessibility%3Ftrk%3Dshare_ent_url&account=26888194) OR [Android Mobile App Accessibility ($45 USD, 1.5 hour webinar)](https://dequeuniversity.com/curriculum/courses/android)
 
 ## Presenting/running meetings
 
