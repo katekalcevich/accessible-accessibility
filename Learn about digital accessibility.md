@@ -77,9 +77,9 @@ The first course covers concepts of focus and semantics, the second focuses on u
 
 ## Content writing
 
-- [Don&#39;t say cyclists, say people on bikes (web page)](https://www.citylab.com/transportation/2015/02/dont-say-cyclists-say-people-on-bikes/385387/)
+- [How Screen Readers Read Content (web page)](https://webaim.org/techniques/screenreader/#how)
+- [Writing Great Accessibility Labels (10 minute video)](https://developer.apple.com/videos/play/wwdc2019/254/)
 - [Writing Clearly and Simply (web page)](https://webaim.org/techniques/writing/)
-- [Plain language guidelines (website)](https://plainlanguage.gov/guidelines/)
 
 ### References
 
