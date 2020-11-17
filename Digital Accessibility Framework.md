@@ -106,7 +106,7 @@ Ensure that your entire digital team is aware of their accessibility accountabil
 
 -   accessibility experts are accountable for creating policies and giving advice on training, testing, auditing and ongoing accessibility improvements
 
-## 4\. Track progress
+## 4\. Track your progress
 
 How do you know if digital efforts are working? you have to decide what outcomes you want, measure your baseline and then measure the change as you implement an accessibility framework.
 
