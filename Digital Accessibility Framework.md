@@ -1,5 +1,4 @@
 # Digital Accessibility Framework for Organizations
-==================================================
 
 The building blocks of a successful digital accessibility program
 
