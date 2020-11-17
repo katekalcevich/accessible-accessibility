@@ -1,5 +1,4 @@
-# Digital Accessibility Framework\
-for Organizations
+# Digital Accessibility Framework for Organizations
 ==================================================
 
 The building blocks of a successful digital accessibility program
@@ -7,7 +6,6 @@ The building blocks of a successful digital accessibility program
 * * * * *
 
 ## 1\. Establish a foundation
---------------------------
 
 ### Assign an executive champion for accessibility
 
@@ -46,7 +44,6 @@ The key parts of your initial digital accessibility strategy are:
 Regularly update your strategy based on whether you achieve digital accessibility outcomes (see step 4).
 
 ## 2\. Train your team
--------------------
 
 ### Establish a baseline understanding
 
@@ -83,7 +80,6 @@ Role-based training can be delivered by an instructor in-house, outsourced to a 
 Once your entire digital team is trained in accessibility, you need a plan to keep it that way. All new employees, contractors and vendors will need accessibility training as part of onboarding. Your accessibility onboarding program needs to be integrated with your hiring and procurement processes.
 
 ## 3\. Change your processes
--------------------------
 
 ### Embed accessibility in procurement
 
@@ -112,7 +108,6 @@ Ensure that your entire digital team is aware of their accessibility accountabil
 -   accessibility experts are accountable for creating policies and giving advice on training, testing, auditing and ongoing accessibility improvements
 
 ## 4\. Track progress
-------------------
 
 How do you know if digital efforts are working? you have to decide what outcomes you want, measure your baseline and then measure the change as you implement an accessibility framework.
 
