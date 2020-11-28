@@ -6,7 +6,7 @@ The building blocks of a successful digital accessibility program.
 
 ## 1\. Establish a foundation
 
-### Assign an executive champion for accessibility
+### Identify an executive champion for accessibility
 
 This doesn't have to be a full-time position, but the executive champion must: 
 
