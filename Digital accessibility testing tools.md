@@ -21,23 +21,20 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ### Automation / Integration
 
-Add these tools to your environment to test for accessibility barriers during development. They check the Web Content Accessibility Guidelines and highlight compliance errors.
+Add one of these tools to your environment to test for accessibility barriers during development. They check the Web Content Accessibility Guidelines and highlight compliance errors.
 
 - [Pa11y: command-line accessibility testing interface](https://pa11y.org/)
 - [Automated Accessibility Testing Tool (AATT)](https://github.com/paypal/AATT)
-- [Tenon: API-first, automated accessibility testing tool](https://tenon.io/)
-- [Integrating Tenon](https://tenon.io/getcode.php)
+- [Tenon: API-first, automated accessibility testing tool](https://tenon.io/) - [Integrating Tenon](https://tenon.io/getcode.php)
 
 ### Browser extensions
 
 Use these free tools to test web pages for accessibility barriers. They check the Web Content Accessibility Guidelines and highlight compliance errors.
 
 - [Axe (Chrome and Firefox)](https://www.deque.com/axe/axe-for-web/)
-The Axe extension highlights errors on screen, explains what caused the error and how to fix it. Axe is great for toggling between the element on screen and the source code.
-- [Easy Accessibility Testing with aXe (3.5 minute video)](https://youtu.be/FW1giWW5M9I)
+The Axe extension highlights errors on screen, explains what caused the error and how to fix it. Axe is great for toggling between the element on screen and the source code. [Easy Accessibility Testing with aXe (3.5 minute video)](https://youtu.be/FW1giWW5M9I)
 - [WAVE (Chrome and Firefox)](https://wave.webaim.org/extension/)
-The WAVE extension highlights errors on screen, explains what caused the error and how to fix it. WAVE allows you to turn page styles off to help narrow down exactly where an error is.
-- [WAVE Help](https://wave.webaim.org/help)
+The WAVE extension highlights errors on screen, explains what caused the error and how to fix it. WAVE allows you to turn page styles off to help narrow down exactly where an error is. [WAVE Help](https://wave.webaim.org/help)
 - [tota11y: an accessibility visualization toolkit (all browsers)](https://khan.github.io/tota11y/)
 The tota11y extension allows you to check one group of errors at a time (headings, contrast, links, etc.). It highlights errors on screen, displays the relevant code and has tips for fixing the errors.
 - [taba11y (Chrome)](https://chrome.google.com/webstore/detail/taba11y/aocppmckdocdjkphmofnklcjhdidgmga?hl=en)
@@ -65,10 +62,8 @@ The taba11y extension tabs through all focusable elements on a page and numbers 
 All the browser extensions check colour contrast. The WCAG color contrast checker _only_ checks colour contrast, nothing else. It will tell you if colours meet AA or AAA requirements for regular or large text. The colour picker tool lets you select colours on screen and test them.
 - Check your font size—is it at least 16px?
 - Zoom in 200%—does everything reflow so you can read without scrolling? or, even better, use a screen magnifier to test:
-- [Windows magnifier (7 minute video)](https://www.youtube.com/watch?v=ibu0BY-kAX4)
-- [Use Magnifier to make things on the screen easier to see](https://support.microsoft.com/en-us/help/11542/windows-use-magnifier-to-make-things-easier-to-see)
-- [How to zoom in on your Mac's screen (6 minute video)](https://www.youtube.com/watch?v=JEpwiTdc0kA&feature=youtu.be)
-- [Accessibility zoom feature on Mac](https://www.imore.com/how-use-zoom-mac)
+- [Windows magnifier (7 minute video)](https://www.youtube.com/watch?v=ibu0BY-kAX4) - [Use Magnifier to make things on the screen easier to see](https://support.microsoft.com/en-us/help/11542/windows-use-magnifier-to-make-things-easier-to-see)
+- [How to zoom in on your Mac's screen (6 minute video)](https://www.youtube.com/watch?v=JEpwiTdc0kA&feature=youtu.be) - [Accessibility zoom feature on Mac](https://www.imore.com/how-use-zoom-mac)
 
 ### Paid webinars and courses
 
