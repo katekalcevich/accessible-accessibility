@@ -1,6 +1,6 @@
 # Digital Accessibility Framework for Organizations
 
-The building blocks of a successful digital accessibility program.
+The building blocks of a successful digital accessibility program. Ensure that you include people with disabilities in your processes and on your teams. Consider creating a panel of people with disabilities that you can consult with on all accessibility matters (not just digital).
 
 * * * * *
 
