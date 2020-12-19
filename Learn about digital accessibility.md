@@ -72,8 +72,8 @@ The first course covers concepts of focus and semantics, the second focuses on u
 
 ### Instructor-led paid courses
 
-- [WCAG Techniques for Web Content ($435 CAD, 1 day online or in person course)](http://eliquo.ca/en/training/course.php?crs=EWAW201) OR if you work with dynamic web applications: [WCAG Techniques for Web Applications and Forms ($635 CAD, 2 day online or in person course)](http://eliquo.ca/en/training/course.php?crs=EWAW202)
-- [Testing Websites and Documents with Screen Reading Technologies ($435 CAD, 1 day online or in person course): MacOS](http://eliquo.ca/en/training/course.php?crs=EWAW211) OR [Windows](http://eliquo.ca/en/training/course.php?crs=EWAW210)
+- [WCAG Techniques for Web Content ($435 CAD, 1 day online or in person course)](http://eliquotraining.com/training/course.php?cid=EWAW201) OR if you work with dynamic web applications: [WCAG Techniques for Web Applications and Forms ($635 CAD, 2 day online or in person course)](http://eliquotraining.com/training/course.php?cid=EWAW202)
+- [Testing Websites and Documents with Screen Reading Technologies ($435 CAD, 1 day online or in person course): MacOS](http://eliquotraining.com/training/course.php?cid=EWAW211) OR [Windows](http://eliquotraining.com/training/course.php?cid=EWAW210)
 
 ## Content writing
 
@@ -93,7 +93,7 @@ Data intended for machine consumption needs to be machine readable. Accessibilit
 [Make your Excel documents accessible (web page)](https://support.microsoft.com/en-gb/office/make-your-excel-documents-accessible-to-people-with-disabilities-6cc05fc5-1314-48b5-8eb3-683e49b3e593?ui=en-us&amp;rs=en-gb&amp;ad=gb)
 - [Improve accessibility with the Accessibility Checker](https://support.office.com/en-us/article/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f?ui=en-US&amp;rs=en-US&amp;ad=US)
 - [Choosing the right format for open data (web page)](https://www.europeandataportal.eu/elearning/en/module9/#/id/co-01)
-- [Eliquo Creating Accessible Documents in Microsoft Excel and PowerPoint ($435 CAD, 1 day webinar or in person)](http://eliquo.ca/en/training/course.php?crs=MSEP301)
+- [Creating Accessible Documents in Microsoft Excel and PowerPoint ($435 CAD, 1 day webinar or in person)](http://eliquotraining.com/training/course.php?cid=MSEP301)
 
 ## Document creation
 
@@ -114,10 +114,10 @@ Paid webinars and courses
 
 - [Basic PDF Accessibility ($45 USD, 45 minute webinar)](https://dequeuniversity.com/curriculum/courses/pdf)
 - [Advanced PDF Accessibility: Complex Tables and Forms ($45 USD, 45 minute webinar)](https://dequeuniversity.com/curriculum/courses/pdf-advanced)
-- [Adobe Acrobat DC: Accessible PDFs ($635 CAD, 2 day online or in person course)](http://eliquo.ca/en/training/course.php?crs=ADDC301)
-- [Adobe Acrobat DC: Accessible PDF Forms ($895 CAD, 3 day online or in person course)](http://eliquo.ca/en/training/course.php?crs=ADDC307)
-- [Adobe InDesign: Creating Accessible PDFs ($635 CAD, 2 day online or in person course)](http://eliquo.ca/en/training/course.php?crs=ADID302)
-- [Adobe LiveCycle Designer: Accessible PDF Forms ($435 CAD, 1 day online or in person course)](http://eliquo.ca/en/training/course.php?crs=ADLD501)
+- [Adobe Acrobat DC: Accessible PDFs ($635 CAD, 2 day online or in person course)](http://eliquotraining.com/training/course.php?cid=ADDC301)
+- [Adobe Acrobat DC: Accessible PDF Forms ($895 CAD, 3 day online or in person course)](http://eliquotraining.com/training/course.php?cid=ADDC307)
+- [Adobe InDesign: Creating Accessible PDFs ($635 CAD, 2 day online or in person course)](http://eliquotraining.com/training/course.php?cid=ADID302)
+- [Adobe LiveCycle Designer: Accessible PDF Forms ($435 CAD, 1 day online or in person course)](http://eliquotraining.com/training/course.php?cid=ADLD501)
 
 ## Graphic/visual design
 
