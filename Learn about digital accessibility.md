@@ -178,7 +178,7 @@ If you&#39;re serious about accessibility, I can&#39;t say enough good things ab
 - [Assistive technology tools you can test with at no cost (web page)](https://accessibility.blog.gov.uk/2018/09/27/assistive-technology-tools-you-can-use-at-no-cost/)
 - [WCAG 2.1 Primer Checklist (web page)](https://alphagov.github.io/wcag-primer/checklist.html#checklist)
 - [Professional Web Accessibility Auditing Made Easy (HTML/Epub/PDF)](https://pressbooks.library.ryerson.ca/pwaa/)
-- [https://www.accessibilityoz.com/resources/mobile-testing/](https://www.accessibilityoz.com/resources/mobile-testing/)
+- [Mobile Site Testing Methodology](https://www.accessibilityoz.com/resources/mobile-testing/)
 
 ## Training
 
