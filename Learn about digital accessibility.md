@@ -11,7 +11,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 When learning about accessibility, it&#39;s helpful to understand:
 
 1. how people with disabilities use the web,
-2. [how assistive technology works](https://github.com/katekalcevich/accessible-accessibility/blob/master/Digital%20accessibility%20testing%20tools.md) (so that you can use it to test accessibility), and
+2. [how assistive technology works](https://github.com/katekalcevich/accessible-accessibility/blob/master/Digital%20accessibility%20testing%20tools.md#manual-testing-tools) (so that you can use it to test accessibility), and
 3. how to use specific accessibility techniques relevant to the work you do.
 
 Many accessibility courses don&#39;t follow this approach. Instead, they teach the Web Content Accessibility Guidelines (WCAG), from start to finish. If you&#39;re lucky, you&#39;ll absorb about 10% of them (there are 78 guidelines in WCAG 2.1 with nine more coming in 2.2).
