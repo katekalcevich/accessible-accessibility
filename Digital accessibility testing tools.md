@@ -53,6 +53,11 @@ The taba11y extension tabs through all focusable elements on a page and numbers 
 
 - [Testing for Accessibility on OS X](https://developer.apple.com/library/archive/documentation/Accessibility/Conceptual/AccessibilityMacOSX/OSXAXTestingApps.html)
 - [Accessibility scanner (Android)](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.auditor&amp;hl=en_CA)
+- [Mobile testing with Access Continuum](https://support.levelaccess.com/hc/en-us/articles/360000518466-Mobile-Testing-with-Access-Continuum)
+
+Deque has testing tools for Android and iOS that can be used in a Continuous Integration environment or with an Accessibility API:
+- [Android Accessibility](https://www.deque.com/android-accessibility/)
+- [iOS Accessibility](https://www.deque.com/ios-accessibility/)
 
 ## Manual testing tools
 
