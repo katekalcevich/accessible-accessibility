@@ -32,7 +32,7 @@ Next, learn a bit about how people with disabilities use the web. If you prefer 
 
 If you want to specialize in accessibility as a career path, consider getting the [International Association of Accessibility Professionals Web Accessibility Specialist Certification ($530 USD)](https://www.accessibilityassociation.org/wascertification).
 
-Here are my favourite training and resources related to accessibility, grouped by job function.
+Here are my favourite training and resources related to accessibility, grouped by job function. If you want a single learning resource as an overview of accessibility, I recommend the 4-week long [W3C Introduction to Accessibility](https://www.edx.org/course/web-accessibility-introduction) course on edX. The course landing page always says "starts today," but it actually runs continuously.
 
 ## Coding
 
@@ -80,6 +80,7 @@ The first course covers concepts of focus and semantics, the second focuses on u
 - [How Screen Readers Read Content (web page)](https://webaim.org/techniques/screenreader/#how)
 - [Writing Great Accessibility Labels (10 minute video)](https://developer.apple.com/videos/play/wwdc2019/254/)
 - [Writing Clearly and Simply (web page)](https://webaim.org/techniques/writing/)
+- [Writing about disability (web page)](https://spectrum.adobe.com/page/writing-about-people/#Writing-about-disability)
 
 ### References
 
@@ -221,8 +222,8 @@ One concern I hear from people who do user interviews is that they worry about o
 
 - [Things to consider when doing usability testing with disabled people (web page)](https://frozenrockets.nl/articles/en/user-testing-with-disabled-people)
 - [Running research sessions with people with disabilities (web page)](https://www.gov.uk/service-manual/user-research/running-research-sessions-with-people-with-disabilities)
+- [A Practical Guide to Inclusive Research (website)](https://medium.com/inclusive-research)
 - [Adrian Roselli: Inclusive Usability Testing (40 minute video)](https://www.youtube.com/watch?v=GECwJOOaIq8)
-- [Test accessibility with real people, online (paid service)](https://www.makeitfable.com/)
 - [Research ethics (3 hour online course)](https://tcps2core.ca/welcome)
 
 ### Personas
@@ -233,3 +234,7 @@ One concern I hear from people who do user interviews is that they worry about o
 
 - [Case study of an inclusive co-design workshop (web page)](https://medium.com/swlh/running-inclusive-research-sessions-beyond-wheelchairs-and-screen-readers-488362c7103d)
 - [Co-design toolkit (website)](https://www.pwdwa.org/documents/connect_with_me/co-design-toolkit/index.htm)
+
+### Services
+
+- [Test accessibility with real people, online (paid service)](https://www.makeitfable.com/)
