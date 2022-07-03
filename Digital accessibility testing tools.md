@@ -106,9 +106,17 @@ These videos help you to understand how Dragon Naturally Speaking works. It&#39;
 - [Emulating the mouse (3 minute video)](https://youtu.be/iOSObinq7a4)
 - [Internet forms (3 minute video)](https://www.youtube.com/watch?v=bmObC7ktNmc)
 
+### Keyboard
+
+- [Introduction to keyboard accessibility](https://brucelawson.co.uk/2022/introduction-to-keyboard-accessibility-the-movie/)
+
 ### Writing
 
 - [Headings Map (Chrome)](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi?hl=en)
 The Headings Map extension shows all headings on a page and their level.
 - [Hemingway](http://www.hemingwayapp.com/)
 The Hemingway web app checks the reading level of your writing and makes suggestions on how to simplify the text.
+
+### Design
+
+- [Accessibility Tools and Resources for Designers](https://www.digitala11y.com/accessibility-tools-and-resources-for-designers/)
