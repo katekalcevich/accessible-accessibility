@@ -50,10 +50,11 @@ The courses and webinars are your actual learning resources. Choose based on you
 
 ### Technology specific guidance
 
-- [Accessibility with ](https://docs.angularjs.org/guide/accessibility)[**ngAria**](https://docs.angularjs.org/guide/accessibility)[ (web page)](https://docs.angularjs.org/guide/accessibility)
+- [Accessibility with **ngAria**](https://docs.angularjs.org/guide/accessibility)[ (web page)](https://docs.angularjs.org/guide/accessibility)
 - [**Angular**](https://dequeuniversity.com/curriculum/courses/angular-accessibility)[Accessibility ($45 USD, 30 minute webinar)](https://dequeuniversity.com/curriculum/courses/angular-accessibility)
 - [**WordPress**](https://make.wordpress.org/accessibility/handbook/best-practices/)[Accessibility Best Practices (website)](https://make.wordpress.org/accessibility/handbook/best-practices/)
 - [**Drupal 7** Accessibility (website)](https://www.drupal.org/node/394094) OR [**Drupal 8** Accessibility (website)](https://www.drupal.org/docs/8/accessibility)
+- [Accessibility Playbook for Emerging Technology Initiatives (website)](https://www.peatworks.org/futureofwork/playbook/)
 
 ### Free online courses
 
@@ -104,6 +105,7 @@ Data intended for machine consumption needs to be machine readable. Accessibilit
 - [Use the accessibility checker to find accessibility issues (web page)](https://support.office.com/en-us/article/Use-the-Accessibility-Checker-to-find-accessibility-issues-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f) OR
 [Use the Office accessibility checker (1 min video)](https://support.office.com/en-us/article/make-your-content-accessible-to-everyone-with-the-accessibility-checker-38059c2d-45ef-4830-9797-618f0e96f3ab)
 - [Best Practices and Guidelines for Large Print (web page)](http://www.acb.org/large-print-guidelines)
+- [Making Accessible Documents (30 minute video)](https://brucelawson.co.uk/2022/making-accessible-documents-the-movie/)
 
 ### PDFs
 
@@ -202,6 +204,8 @@ Two practical training videos on how to add accessibility to your workflow—sta
 
 1. [UX Foundations: Accessibility (1 hour 20 minute video)](https://www.linkedin.com/learning/ux-foundations-accessibility)
 2. [Accessibility for Web Design (2 hour video)](https://www.linkedin.com/learning/accessibility-for-web-design/)
+
+[Annotating designs for Accessibility (1 hour video)](https://www.youtube.com/watch?v=Y35jmpS8lQM&ab_channel=InclusiveDesign24%23id24)
 
 This course is more theoretical than practical, but it gives you a lot of great context for accessible design. It&#39;s quite lengthy, so I consider it optional.
 
