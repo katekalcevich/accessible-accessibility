@@ -95,7 +95,7 @@ Data intended for machine consumption needs to be machine readable. Accessibilit
 ## Document creation
 
 - [Make your Word documents accessible (web page)](https://support.office.com/en-gb/article/make-your-word-documents-accessible-to-people-with-disabilities-d9bf3683-87ac-47ea-b91a-78dcacb3c66d?ui=en-US&amp;rs=en-GB&amp;ad=GB) OR
-[Creating accessible Word documents (7 videos)](https://support.office.com/en-us/article/video-creating-accessible-documents-8d720231-495a-489c-a27a-eaf98f85c4f3?ui=en-US&amp;rs=en-US&amp;ad=US)
+[Create accessible Word documents (5 videos)]([https://support.office.com/en-us/article/video-creating-accessible-documents-8d720231-495a-489c-a27a-eaf98f85c4f3?ui=en-US&amp;rs=en-US&amp;ad=US](https://support.microsoft.com/en-us/office/video-check-the-accessibility-of-your-document-9d660cba-1fcd-45ad-a9d1-c4f4b5eb5b7d))
 - [Make your PowerPoint presentations accessible (web page)](https://support.office.com/en-gb/article/make-your-powerpoint-presentations-accessible-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25)
 - [Use the accessibility checker to find accessibility issues (web page)](https://support.office.com/en-us/article/Use-the-Accessibility-Checker-to-find-accessibility-issues-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f) OR
 [Use the Office accessibility checker (1 min video)](https://support.office.com/en-us/article/make-your-content-accessible-to-everyone-with-the-accessibility-checker-38059c2d-45ef-4830-9797-618f0e96f3ab)
@@ -119,8 +119,8 @@ Paid webinars and courses
 - [5 Keys to Accessible Web Typography (web page)](https://betterwebtype.com/articles/2019/06/16/5-keys-to-accessible-web-typography/)
 - [Clear print guidelines (24 page PDF)](https://cnib.ca/sites/default/files/2018-07/CNIB%20Clear%20Print%20Guide.pdf)
 - [AccessAbility 2: A Practical Handbook on Accessible Graphic Design (88  page PDF)](https://www.rgd.ca/database/files/library/RGD_AccessAbility2_Handbook_2019_06_01(1).pdf)
-- [Contrast and focus (2 page Word)](https://github.com/katekalcevich/accessible-accessibility/blob/master/WCAG_Focus_Contrast.docx)
 - [Visual Design and Colors ($45 USD, 75 minute webinar)](https://dequeuniversity.com/curriculum/courses/visual-design)
+- [Contrast and Color Accessibility (web page)](https://webaim.org/articles/contrast/)
 
 ## Hiring and supporting employees with disabilities
 
@@ -132,7 +132,7 @@ Paid webinars and courses
 
 - [The business case for digital accessibility](https://www.w3.org/WAI/business-case/)
 
-If you&#39;re serious about accessibility, I can&#39;t say enough good things about [Fable Tech Labs Inc](https://www.makeitfable.com/). They&#39;ve created a platform for remote usability testing with people with disabilities. This lets your team understand real barriers to accessibility and interact with real people. They also provide consulting services and accessibility workshops.
+If you&#39;re serious about accessibility, I can&#39;t say enough good things about [Fable Tech Labs Inc](https://www.makeitfable.com/). They&#39;ve created a platform for remote usability testing with people with disabilities. This lets your team understand real barriers to accessibility and interact with real people. They also provide consulting services and accessibility workshops. Disclaimer: I joined Fable in December 2020, but I wrote this prior.
 
 ## Mobile app development
 
@@ -194,7 +194,9 @@ Two practical training videos on how to add accessibility to your workflow—sta
 1. [UX Foundations: Accessibility (1 hour 20 minute video)](https://www.linkedin.com/learning/ux-foundations-accessibility)
 2. [Accessibility for Web Design (2 hour video)](https://www.linkedin.com/learning/accessibility-for-web-design/)
 
-[Annotating designs for Accessibility (1 hour video)](https://www.youtube.com/watch?v=Y35jmpS8lQM&ab_channel=InclusiveDesign24%23id24)
+Key concepts:
+- [Annotating designs for Accessibility (1 hour video)](https://www.youtube.com/watch?v=Y35jmpS8lQM&ab_channel=InclusiveDesign24%23id24)
+- [Contrast and Color Accessibility (web page)](https://webaim.org/articles/contrast/)
 
 This course is more theoretical than practical, but it gives you a lot of great context for accessible design. It&#39;s quite lengthy, so I consider it optional.
 
