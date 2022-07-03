@@ -63,6 +63,7 @@ The first course covers concepts of focus and semantics, the second focuses on u
 - [Web Accessibility by Google (2 week online course, 1-2 hours per week)](https://classroom.udacity.com/courses/ud891) OR [Google Web Fundamentals: Accessibility (website)](https://developers.google.com/web/fundamentals/accessibility/)
 - [Web Accessibility for developers (online book, chapters 2-6)](https://pressbooks.library.ryerson.ca/wafd/chapter/objectives-and-activities-2/)
 - [Guidelines for speech-accessible HTML (PDF, 8 pages)](http://supportcontent.nuance.com/kbfiles/2626_DNS_HTML.pdf)
+- [Self-Paced Web Accessibility Course (1 hour per module x 11 modules)](https://bati-itao.github.io/learning/esdc-self-paced-web-accessibility-course/index.html)
 
 ### Paid webinars
 
