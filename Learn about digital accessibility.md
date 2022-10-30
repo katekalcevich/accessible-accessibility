@@ -34,7 +34,7 @@ If you want to specialize in accessibility as a career path, consider getting th
 
 Here are my favourite training and resources related to accessibility, grouped by job function. If you want a single learning resource as an overview of accessibility, I recommend the 4-week long [W3C Introduction to Accessibility](https://www.edx.org/course/web-accessibility-introduction) course on edX. The course landing page always says "starts today," but it actually runs continuously.
 
-## Non-Diginal
+## Non-Digital
 If you're looking for training that isn't specific to the web or digital documents, Twitter's #UntilWeAllBelong courses are free:
 
 - [Foundations of Accessibility](https://tinteractive.twitter.com/courses/foundations-of-accessibility/#/)
