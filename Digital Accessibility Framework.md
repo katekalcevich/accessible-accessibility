@@ -16,9 +16,9 @@ This doesn't have to be a full-time position, but the executive champion must: 
 
 -   prioritize accessibility and help others see the value of it
 
-In addition to an executive champion, you'll need a digital accessibility lead with technical expertise to lead the day-to-day work. 
+In addition to an executive champion, you'll need another champion to coordinate accessibility efforts across your organization and collect data for KPI reporting. This person can also lead an accessibility champions group.
 
-A committee of accessibility champions from various parts of the organization can be very useful for coordinating accessibility efforts, sharing information accross the organization and avoiding a siloed approach to accessibility.
+A group of accessibility champions from various parts of the organization can be very useful for coordinating accessibility efforts, sharing information accross the organization and avoiding a siloed approach to accessibility.
 
 ### Allocate budget for digital accessibility
 
@@ -40,7 +40,7 @@ The key parts of your initial digital accessibility strategy are:
 
 -   what culture and governance you want for digital accessibility
 
--   how the accessibility experts will support the digital team (your accessibility support model)
+-   how the digital team will be supported in implementing accessibility
 
 Regularly update your strategy based on whether you achieve your digital accessibility outcomes (see step 4).
 
@@ -56,15 +56,15 @@ Your entire digital team needs to understand:
 
 -   the types of assistive technology they use.
 
-An accessibility bootcamp is an effective way of training large teams all at once.
+An accessibility bootcamp is an effective way of training large teams all at once or you can create an on demand training program for continuous learning.
 
 ### Implement role-based training
 
 Beyond the baseline understanding of accessibility, 
 
--   project managers/scrum masters need to include accessibility in planning and sprint reviews
+-   product managers need to include accessibility in planning and sprint reviews
 
--   researchers need to include disabled people in interviews, testing and personas
+-   researchers need to include disabled people in user interviews and usability testing
 
 -   designers need to know how to create designs with accessibility annotations
 
@@ -72,9 +72,9 @@ Beyond the baseline understanding of accessibility, 
 
 -   developers need to know how to write accessible code and validate it
 
--   QA testers need to know how to use assistive technology to test user journeys
+-   QA testers need to know how to validate for accessibility and have access to assistive technology users for testing
 
-Role-based training can be delivered by an instructor in-house, outsourced to a vendor or through online learning courses.
+Role-based training can be delivered by an instructor in-house, outsourced to a vendor, or obtained through online learning courses.
 
 ### Create an integrated onboarding program
 
@@ -88,7 +88,7 @@ As part of your procurement process, you must:
 
 -   evaluate products for accessibility as part of your selection process
 
--   use experts to determine accessibility evaluation criteria
+-   determine accessibility evaluation criteria
 
 -   include accessibility in procurement contracts 
 
@@ -118,7 +118,7 @@ Ensure that your entire digital team is aware of their accessibility responsibil
 
 -   product owners are accountable for the accessibility of their products
 
--   accessibility experts are accountable for creating standards and giving advice on training, testing, auditing and ongoing accessibility improvements
+-   accessibility champions are accountable for creating standards and giving advice on training, testing, auditing and ongoing accessibility improvements
 
 ## 4\. Track your progress
 
@@ -138,13 +138,13 @@ Metrics:
 
 How to measure: 
 
--   test, survey or interview a percentage new employees post-training 
+-   test, survey, or interview a percentage new employees post-training 
 
 -   analyze the accessibility fields of performance review documents for completion and run a query to determine average skills/contributions across the organization 
 
 ### Implement testing tools and processes
 
-Use automated accessibility testing tools like [Axe](https://www.deque.com/axe/), [WAVE](https://wave.webaim.org/), [Pa11y](https://pa11y.org/), [Siteimprove](https://siteimprove.com/), [Tenon.io](https://tenon.io/), etc. and also test with assistive technology like screen readers, keyboard and magnifiers to catch accessibility issues that can't be found by automated testing tools.
+Use automated accessibility testing tools like [Axe](https://www.deque.com/axe/), [WAVE](https://wave.webaim.org/), [Pa11y](https://pa11y.org/), [Siteimprove](https://siteimprove.com/), [Tenon.io](https://tenon.io/), etc. and also test with users of assistive technology like screen readers, keyboard and magnifiers to catch accessibility issues that can't be found by automated testing tools.
 
 Assistive technology testing can be outsourced to vendors that use a community of disabled testers.
 
@@ -152,7 +152,7 @@ Assistive technology testing can be outsourced to vendors that use a community o
 
 ### Report on progress across the organization
 
-Publish quarterly reports, a newsletter, a blog or host lunch n' learns, give talks, speak in sprint reviews–whatever works best for your team and culture to bring awareness of the progress being made in digital accessibility.
+Publish quarterly reports, a newsletter, a blog or host lunch n' learns, give talks, speak in sprint reviews – whatever works best for your team and culture to bring awareness of the progress being made in digital accessibility.
 
 ### Publish an accessibility statement
 
