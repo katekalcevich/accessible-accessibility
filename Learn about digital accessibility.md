@@ -10,7 +10,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 When learning about accessibility, it&#39;s helpful to understand:
 
-1. how people with disabilities use the web,
+1. [how people with disabilities use the web](https://tetralogical.com/blog/2021/12/24/browsing-with-assistive-technology-videos/),
 2. [how assistive technology works](https://github.com/katekalcevich/accessible-accessibility/blob/master/Digital%20accessibility%20testing%20tools.md#manual-testing-tools) (so that you can use it to test accessibility), and
 3. how to use specific accessibility techniques relevant to the work you do.
 
@@ -98,6 +98,7 @@ Data intended for machine consumption needs to be machine readable. Accessibilit
 [Make your Excel documents accessible (web page)](https://support.microsoft.com/en-gb/office/make-your-excel-documents-accessible-to-people-with-disabilities-6cc05fc5-1314-48b5-8eb3-683e49b3e593?ui=en-us&amp;rs=en-gb&amp;ad=gb)
 - [Improve accessibility with the Accessibility Checker](https://support.office.com/en-us/article/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f?ui=en-US&amp;rs=en-US&amp;ad=US)
 - [Choosing the right format for open data (web page)](https://www.europeandataportal.eu/elearning/en/module9/#/id/co-01)
+- [Do No Harm Guide: Centering Accessibility in Data Visualization](https://www.urban.org/research/publication/do-no-harm-guide-centering-accessibility-data-visualization)
 
 ## Document creation
 
@@ -114,6 +115,7 @@ Data intended for machine consumption needs to be machine readable. Accessibilit
 - [Workflow for creating Accessible PDFs (web page)](https://helpx.adobe.com/acrobat/using/creating-accessible-pdfs.html)
 - [Create and verify PDF accessibility (web page)](https://helpx.adobe.com/ca/acrobat/using/create-verify-pdf-accessibility.html)
 - [Creating Accessible Forms with Acrobat Pro DC (web page)](https://www.adobe.com/accessibility/products/acrobat/creating-accessible-forms.html)
+- [Accessible PDF Training](https://mn.gov/mnit/about-mnit/accessibility/training/pdf-101.jsp)
 
 Paid webinars and courses
 
