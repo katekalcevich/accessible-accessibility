@@ -21,11 +21,11 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ### Automation / Integration
 
-Add one of these tools to your environment to test for accessibility barriers during development. They check the Web Content Accessibility Guidelines and highlight compliance errors.
+Add one of these free tools to your environment to test for accessibility barriers during development. They check the Web Content Accessibility Guidelines and highlight compliance errors.
 
 - [Pa11y: command-line accessibility testing interface](https://pa11y.org/)
 - [Automated Accessibility Testing Tool (AATT)](https://github.com/paypal/AATT)
-- [Tenon: API-first, automated accessibility testing tool](https://tenon.io/) - [Integrating Tenon](https://tenon.io/getcode.php)
+- [Tenon: API-first, automated accessibility testing tool](https://tenon.io/get-code/)
 
 ### Browser extensions
 
@@ -53,11 +53,7 @@ The taba11y extension tabs through all focusable elements on a page and numbers 
 
 - [Testing for Accessibility on OS X](https://developer.apple.com/library/archive/documentation/Accessibility/Conceptual/AccessibilityMacOSX/OSXAXTestingApps.html)
 - [Accessibility scanner (Android)](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.auditor&amp;hl=en_CA)
-- [Mobile testing with Access Continuum](https://support.levelaccess.com/hc/en-us/articles/360000518466-Mobile-Testing-with-Access-Continuum)
-
-Deque has testing tools for Android and iOS that can be used in a Continuous Integration environment or with an Accessibility API:
-- [Android Accessibility](https://www.deque.com/android-accessibility/)
-- [iOS Accessibility](https://www.deque.com/ios-accessibility/)
+- Appt has resources for [manual](https://appt.org/en/guidelines/beginnersguide-accessibility-testing) and [automated testing](https://appt.org/en/articles/automated-accessibility-testing-android-ios-apps) on mobile
 
 ## Manual testing tools
 
@@ -69,13 +65,6 @@ All the browser extensions check colour contrast. The WCAG color contrast checke
 - Zoom in 200%—does everything reflow so you can read without scrolling? or, even better, use a screen magnifier to test:
 - [Windows magnifier (7 minute video)](https://www.youtube.com/watch?v=ibu0BY-kAX4) - [Use Magnifier to make things on the screen easier to see](https://support.microsoft.com/en-us/help/11542/windows-use-magnifier-to-make-things-easier-to-see)
 - [How to zoom in on your Mac's screen (6 minute video)](https://www.youtube.com/watch?v=JEpwiTdc0kA&feature=youtu.be) - [Accessibility zoom feature on Mac](https://www.imore.com/how-use-zoom-mac)
-
-### Paid webinars and courses
-
-- [Web Accessibility Testing, Part 1: Screen Readers ($45 USD, 1 hour webinar)](https://dequeuniversity.com/curriculum/courses/screenreaders)
-- [Web Accessibility Testing, Part 2: Basic Methods and Tools ($45 USD, 1 hour webinar)](https://dequeuniversity.com/curriculum/courses/testingmethods)
-- [Testing Websites and Documents with Screen Reading Technologies ($435 CAD, 1 day online or in person course): MacOS](http://eliquo.ca/en/training/course.php?crs=EWAW211) OR [Windows](http://eliquo.ca/en/training/course.php?crs=EWAW210)
-- [Testing Websites and Documents with Screen Reading Technologies on Mobile for iOS and Android ($435 CAD, 1 day online or in person course)](http://eliquo.ca/en/training/course.php?crs=EWAW213)
 
 ### Screen readers
 
@@ -99,7 +88,7 @@ Key commands to get started:
 
 ### Speech input
 
-These videos help you to understand how Dragon Naturally Speaking works. It&#39;s the most popular tool for using a computer with your voice. If you don&#39;t want to buy Dragon, you can use [Windows Speech Recognition](https://www.windowscentral.com/how-set-speech-recognition-windows-10) or [Mac Dictation](https://support.apple.com/en-ca/HT210539) instead.
+These videos help you to understand how Dragon Naturally Speaking works. It&#39;s the most popular tool for using a computer with your voice. If you don&#39;t want to buy Dragon, you can use [Windows Speech Recognition](https://support.microsoft.com/en-us/windows/use-voice-recognition-in-windows-83ff75bd-63eb-0b6c-18d4-6fae94050571) or [Mac Dictation](https://support.apple.com/en-ca/HT210539) instead.
 
 - [Browsing the web (2 minute video)](https://www.youtube.com/watch?v=ncACrtT_3ig)
 - [Following links in web pages (3 minute video)](https://www.youtube.com/watch?v=f9fK-Fk6GrI)
@@ -108,7 +97,8 @@ These videos help you to understand how Dragon Naturally Speaking works. It&#39;
 
 ### Keyboard
 
-- [Introduction to keyboard accessibility](https://brucelawson.co.uk/2022/introduction-to-keyboard-accessibility-the-movie/)
+- [Browsing with a keyboard](https://www.youtube.com/watch?v=757suz8MTV8)
+- [Keyboard Accessibility](https://webaim.org/techniques/keyboard/)
 
 ### Writing
 
