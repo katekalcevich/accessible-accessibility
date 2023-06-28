@@ -11,7 +11,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 When learning about accessibility, it&#39;s helpful to understand:
 
 1. [how people with disabilities use the web](https://tetralogical.com/blog/2021/12/24/browsing-with-assistive-technology-videos/),
-2. [how assistive technology works](https://github.com/katekalcevich/accessible-accessibility/blob/master/Digital%20accessibility%20testing%20tools.md#manual-testing-tools) (so that you can use it to test accessibility), and
+2. [how assistive technology works](https://github.com/katekalcevich/accessible-accessibility/blob/master/Digital%20accessibility%20testing%20tools.md#manual-testing-tools), and
 3. how to use specific accessibility techniques relevant to the work you do.
 
 Many accessibility courses don&#39;t follow this approach. Instead, they teach the Web Content Accessibility Guidelines (WCAG), from start to finish. If you&#39;re lucky, you&#39;ll absorb about 10% of them (there are 78 guidelines in WCAG 2.1 with nine more coming in 2.2).
@@ -45,14 +45,14 @@ If you're looking for training that isn't specific to the web or digital documen
 
 There are a lot of options here—let me clarify how to use them. Start with [Designing for easy interaction](https://alistapart.com/article/designing-for-easy-interaction) if you&#39;re new to web accessibility. The quick references are handy to use after your training is complete. Technology specific guidance are references you can use to look up concepts as you&#39;re developing.
 
-The courses and webinars are your actual learning resources. Choose based on your budget (free or paid) and within the paid options, whether you prefer independent learning or instructor-led classes.
+The courses and webinars are your actual learning resources.
 
 ### References
 
 - [15 tips to improve web accessibility (web page)](https://codepen.io/alvaromontoro/full/xaEVJb)
 - [Web Development Accessibility Guidelines (web page)](https://pressbooks.library.ryerson.ca/dabp/chapter/developing-organization-accessibility-guidelines/)
 - [W3C Web Accessibility Tutorials – Form Concepts (website)](http://www.w3.org/WAI/tutorials/forms/)
-- [W3C ARIA Design patterns for components (website)](https://www.w3.org/TR/wai-aria-practices/)
+- [W3C ARIA Authoring Practices Guide (APG) (website)](https://www.w3.org/WAI/ARIA/apg/)
 - [WAI-ARIA Cheat Sheet (web page)](https://cheatography.com/jreiche/cheat-sheets/wai-aria-1-1/)
 
 ### Technology specific guidance
@@ -71,13 +71,6 @@ The first course covers concepts of focus and semantics, the second focuses on u
 - [Web Accessibility for developers (online book, chapters 2-6)](https://pressbooks.library.ryerson.ca/wafd/chapter/objectives-and-activities-2/)
 - [Guidelines for speech-accessible HTML (PDF, 8 pages)](http://supportcontent.nuance.com/kbfiles/2626_DNS_HTML.pdf)
 - [Self-Paced Web Accessibility Course (1 hour per module x 11 modules)](https://bati-itao.github.io/learning/esdc-self-paced-web-accessibility-course/index.html)
-
-### Paid webinars
-
-- [Web Accessibility, Part 7: Form Labels, Instructions, and Validation ($45 USD, 1.5 hour webinar)](https://dequeuniversity.com/curriculum/courses/forms)
-- [Web Accessibility, Part 6: Device-Independent User Input Methods ($45 USD, 45 minute webinar)](https://dequeuniversity.com/curriculum/courses/user-input)
-- [Web Accessibility, Part 8: Dynamic Updates, AJAX, and Single-Page Apps ($45 USD, 30 minute webinar)](https://dequeuniversity.com/curriculum/courses/dynamic-updates)
-- [Web Accessibility, Part 9: Custom JavaScript/ARIA Widgets ($45 USD, 3 hour webinar)](https://dequeuniversity.com/curriculum/courses/customwidgets)
 
 ## Content writing
 
@@ -116,11 +109,6 @@ Data intended for machine consumption needs to be machine readable. Accessibilit
 - [Create and verify PDF accessibility (web page)](https://helpx.adobe.com/ca/acrobat/using/create-verify-pdf-accessibility.html)
 - [Creating Accessible Forms with Acrobat Pro DC (web page)](https://www.adobe.com/accessibility/products/acrobat/creating-accessible-forms.html)
 - [Accessible PDF Training](https://mn.gov/mnit/about-mnit/accessibility/training/pdf-101.jsp)
-
-Paid webinars and courses
-
-- [Basic PDF Accessibility ($45 USD, 45 minute webinar)](https://dequeuniversity.com/curriculum/courses/pdf)
-- [Advanced PDF Accessibility: Complex Tables and Forms ($45 USD, 45 minute webinar)](https://dequeuniversity.com/curriculum/courses/pdf-advanced)
 
 ## Graphic/visual design
 
