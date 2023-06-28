@@ -58,16 +58,16 @@ The courses and webinars are your actual learning resources.
 ### Technology specific guidance
 
 - [Accessibility with **ngAria**](https://docs.angularjs.org/guide/accessibility)[ (web page)](https://docs.angularjs.org/guide/accessibility)
-- [**Angular**](https://dequeuniversity.com/curriculum/courses/angular-accessibility)[Accessibility ($45 USD, 30 minute webinar)](https://dequeuniversity.com/curriculum/courses/angular-accessibility)
+- [React accessibility](https://legacy.reactjs.org/docs/accessibility.html)
 - [**WordPress**](https://make.wordpress.org/accessibility/handbook/best-practices/)[Accessibility Best Practices (website)](https://make.wordpress.org/accessibility/handbook/best-practices/)
 - [**Drupal 7** Accessibility (website)](https://www.drupal.org/node/394094) OR [**Drupal 8** Accessibility (website)](https://www.drupal.org/docs/8/accessibility)
 - [Accessibility Playbook for Emerging Technology Initiatives (website)](https://www.peatworks.org/futureofwork/playbook/)
 
 ### Free online courses
 
-The first course covers concepts of focus and semantics, the second focuses on using ARIA in interactive applications and the third helps you to understand how to write code  that supports voice control technology.
+The first course covers concepts of focus and semantics, the second focuses on using ARIA in interactive applications and the third helps you to understand how to write code that supports voice control technology.
 
-- [Web Accessibility by Google (2 week online course, 1-2 hours per week)](https://classroom.udacity.com/courses/ud891) OR [Google Web Fundamentals: Accessibility (website)](https://developers.google.com/web/fundamentals/accessibility/)
+- [Web Accessibility by Google (2 week online course, 1-2 hours per week)](https://classroom.udacity.com/courses/ud891) OR [Learn accessibility](https://web.dev/learn/accessibility/)
 - [Web Accessibility for developers (online book, chapters 2-6)](https://pressbooks.library.ryerson.ca/wafd/chapter/objectives-and-activities-2/)
 - [Guidelines for speech-accessible HTML (PDF, 8 pages)](http://supportcontent.nuance.com/kbfiles/2626_DNS_HTML.pdf)
 - [Self-Paced Web Accessibility Course (1 hour per module x 11 modules)](https://bati-itao.github.io/learning/esdc-self-paced-web-accessibility-course/index.html)
